@@ -4,6 +4,7 @@ author: Xavier Baez
 ------------------------------------------------------------------
 HOW TO USE:
 
+cd /vendor/bin/
 php phpunit --verbose ../../tests/ConfigRepositoryTest.php
 
 ------------------------------------------------------------------
